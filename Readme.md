@@ -1,2 +1,2 @@
    
-   git staus
+   git staus add some thing
