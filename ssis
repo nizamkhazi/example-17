@@ -1,0 +1,57 @@
+[33m9438c3e[m latest changes
+[1mdiff --git a/Readme.md b/Readme.md[m
+[1mindex c32571f..d44ca2e 100644[m
+[1m--- a/Readme.md[m
+[1m+++ b/Readme.md[m
+[36m@@ -1,2 +1,2 @@[m
+    [m
+[31m-   git staus[m
+\ No newline at end of file[m
+[32m+[m[32m   git staus add some thing[m
+\ No newline at end of file[m
+[33mcbfb60f[m add basic html
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..93caaca[m
+[1m--- /dev/null[m
+[1m+++ b/about.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mabout[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b2d525b[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mindex[m
+\ No newline at end of file[m
+[33m11bb509[m added loicense
+[1mdiff --git a/license.txt b/license.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..083a8ae[m
+[1m--- /dev/null[m
+[1m+++ b/license.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mgit license[m
+\ No newline at end of file[m
+[33m1027586[m update
+[1mdiff --git a/Readme.md b/Readme.md[m
+[1mindex 01ad2f9..c32571f 100644[m
+[1m--- a/Readme.md[m
+[1m+++ b/Readme.md[m
+[36m@@ -1 +1,2 @@[m
+[31m-   [m
+\ No newline at end of file[m
+[32m+[m[41m   [m
+[32m+[m[32m   git staus[m
+\ No newline at end of file[m
+[33mbf3e897[m initial commit
+[1mdiff --git a/Readme.md b/Readme.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..01ad2f9[m
+[1m--- /dev/null[m
+[1m+++ b/Readme.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[41m   [m
+\ No newline at end of file[m
